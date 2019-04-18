@@ -1,3 +1,8 @@
+; A very basic calculator written in assembly language
+; You can run it via emu8086 emulator
+
+
+
 .model small
 .stack 100h
 .data
